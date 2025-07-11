@@ -1,0 +1,37 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset or sensitive outputs
+*.csv
+*.xlsx
+*.zip
+
+# Logs
+*.log
+
+# Jupyter runtime
+*.nbconvert.ipynb
+
+# Anaconda project metadata
+.conda/
